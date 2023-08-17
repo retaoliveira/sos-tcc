@@ -1,0 +1,187 @@
+---
+title: "S.O.S. TCC"
+subtitle: "Encontro 02 - Revisão da literatura"
+author: "Ludmila Guimarães e Renata Oliveira"
+logo: "logo.jpg"
+#subtitle: "Sejam bem vindos!"
+#footer:  "[Ciência aberta e em colaboração](https://open-reproducible-research.github.io/website/)"
+from: markdown+emoji
+institute: "PetADM"
+title-slide-attributes: 
+  data-background-size: contain
+  data-background-color: '#04b0af'
+format: 
+  revealjs: 
+    embed-resources: false
+    theme: 
+      - slides.scss
+    incremental: true
+    multiplex: true
+    transition: fade
+    slide-number: c/t
+    width: 1600
+    height: 900
+    echo: false
+    scrollable: true
+    preview-links: auto
+    chalkboard: true
+    highlight-style: github
+editor: source
+execute:
+  freeze: auto
+---
+
+## Retrospecto
+1. Tema
+2. **`Pergunta-problema`**
+3. Objetivos geral e específico
+4. Relevância
+
+## Agenda
+:::: {.columns}
+::: {.column width="50%"}
+
+- O que é a revisão da literatura?
+- Por que fazer?
+- O que devo incluir? Como encontrar as referências?
+- Como construir a revisão?
+- Posso usar Inteligência Artificial para fazer a minha revisão?
+:::
+
+::: {.column width="50%"}
+- Quais são os tipos de revisão de literatura?
+    - revisão narrativa ou bibliográfica
+    - revisão sistemática
+      - bibliométrica
+      - meta-análise
+:::
+::::
+
+## O que é a revisão da literatura?
+
+O referencial teórico é um `texto estruturado`, apresentando `o que já foi publicado até o momento com relação ao seu tema de pesquisa`, mas principalmente como a `teoria entende os conceitos` que você irá investigar para responder seu problema de pesquisa.
+
+<hr></hr>
+
+- apresentar os principais conceitos presentes no seu `problema de pesquisa` 
+- `discuti-los` seguindo uma `lógica de argumentação`
+- Para isso, o referencial teórico será escrito com base em uma `revisão de literatura`.
+
+:::{.incremental}
+
+::: {.question}
+- Foque nos conceitos e não nas publicações!!!!!!!!!!!!!
+::: 
+:::
+
+
+## Por que fazer?
+- Arcabouço teórico
+- Fundamentação conceitual
+- Direcionamento - construção do método
+
+
+
+## O que devo incluir? Como encontrar as referências?
+
+
+### Seleção de `artigos`
+:::: {.columns}
+::: {.column width="50%"}
+- `Revistas de alto impacto`  
+  - JCR   
+  - Qualis   
+  - Citescore   
+  - Google Scholar   
+  - [Web of science - app mobile](https://clarivate.com/web-of-science-my-research-assistant/?utm_source=owned&utm_medium=banner&utm_campaign=My_Research_Assistant_App_Parent_SAR_Global_2021&utm_content=wos-blue-banner)   
+  - Elsevier   
+  - Scopus
+:::
+
+::: {.column width="50%"}
+- `Perecibilidade da publicação`
+- Pesquisa 
+  - [Scispace](https://typeset.io)
+- Snowballing 
+  - [Research Rabbit](https://www.researchrabbit.ai/)
+:::
+::::
+
+## O que devo incluir? Como encontrar as referências?
+
+:::{.question}
+Defina um tempo para pesquisa de artigos !!!!!!!!!!!!!!!!!!
+:::
+
+:::{.question}
+Você **`nunca`** vai conseguir encontrar **`TODAS`** as publicações que existem sobre o tema!
+:::
+
+## Como construir a revisão? 
+
+:::: {.columns}
+::: {.column width="50%"}
+### `Organização dos artigos`
+- [Zotero](https://www.zotero.org/download/)   
+- [Mendeley](https://www.mendeley.com/)
+
+### `Elaboração de notas atômicas`
+- [Notion](https://notion.so)   
+- [Scrintal](https://www.scrintal.com/)   
+- [Evernote](https://evernote.com)   
+- [Obsidian](https://obsidian.md/)   
+:::
+::: {.column width="50%"}
+
+### `Citações`
+- Plugin Word - Zotero
+- Plugin Chrome - Zotero
+
+### `Revisão textual`
+- [Grammarly](https://www.grammarly.com/)
+- [LanguageTool](https://languagetool.org/pt-BR/wordpress?utm_source=google&utm_medium=cpc&utm_campaign=&utm_content=&utm_term=&gclid=CjwKCAjwivemBhBhEiwAJxNWN8WgXmP2-UMF9JBeOGTChhsYxndJtVnqmKsAbw3pBYU8-SoFaTZ3fxoCe_YQAvD_BwE)
+:::
+::::
+
+## Como construir a revisão? 
+
+::: {.question}
+Faça um `cronograma de leitura`!!!!!!!!!!!!!!!!!!!!!!!!!!!
+:::
+
+::: {.question}
+**`ESCREVA, ESCREVA, ESCREVA`**, mesmo que depois o texto produzido não fique no TCC!
+:::
+
+::: {.question}
+**`SEMPRE`** inclua a fonte pesquisada no momento da leitura/redação. Se deixar para depois, o trabalho será muito maior!
+:::
+
+## Posso usar Inteligência Artificial para fazer a minha revisão?
+
+. . .
+
+::: {.huge}
+SIM!!!!!
+:::
+. . .
+
+::: {.medium}
+Desde que o uso seja **`responsável`** e direcionado às atividades preliminares à redação. **`Não`** recomenda-se uso para redação da revisão da literatura. 
+:::
+
+
+## Quais os tipos de revisão da literatura?
+::: {.medium}
+- Revisão narrativa ou bibliográfica
+- Revisão sistemática
+  - Bibliométrica
+  - Meta-análise
+:::
+
+## Atividade
+::: {.medium}
+1. Faça seu cadastro nas plataformas **`Zotero`**, **`Research Rabbit`** e **`Scispace`**
+2. A partir da sua pergunta problema, escolha palavras-chave e pesquise essas palavras nas duas plataformas
+3. Identifique dois artigos relevantes que 
+:::
