@@ -182,6 +182,8 @@ Desde que o uso seja **`responsável`** e direcionado às atividades preliminare
 ## Atividade
 ::: {.medium}
 1. Faça seu cadastro nas plataformas **`Zotero`**, **`Research Rabbit`** e **`Scispace`**
-2. A partir da sua pergunta problema, escolha palavras-chave e pesquise essas palavras nas duas plataformas
-3. Identifique dois artigos relevantes que 
+2. A partir da sua pergunta problema, escolha palavras-chave e pesquise essas palavras no Scispace e escolha dois artigos com maior número de citações e publicado em revistas de impacto. 
+3. Entre na sua conta no `Research Rabbit`, crie uma coleção e adicione os DOI desses artigos para pesquisa.
+4. Identifique os autores e as publicações mais relevantes nesse assunto.
 :::
+
